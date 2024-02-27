@@ -2,9 +2,10 @@
 - [Mastering Bitcoin](https://github.com/FernandoFH/bitcoinbook)
 - [Mastering Lightning Network](https://github.com/FernandoFH/lnbook)
 
-https://github.com/FernandoFH/lightning-curriculum
-https://github.com/FernandoFH/bitcoin-curriculum
-https://github.com/FernandoFH/lnp-node
+- [bitcoin curriculum](https://github.com/FernandoFH/bitcoin-curriculum)
+- [lightning curriculum](https://github.com/FernandoFH/lightning-curriculum)
+- [lnp node](https://github.com/FernandoFH/lnp-node)
+
 
 - [Programming Bitcoin](https://github.com/FernandoFH/programming-bitcoin-rs)
 - [Learning Bitcoin from the Command Line](https://github.com/FernandoFH/Learning-Bitcoin-from-the-Command-Line)
