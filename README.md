@@ -1,6 +1,12 @@
 # BTC Programing
+
+### 10/12/2024
+
 - [Mastering Bitcoin](https://github.com/FernandoFH/bitcoinbook)
 - [Bitcoin curriculum](https://github.com/FernandoFH/bitcoin-curriculum)
+- [Rust For Bitcoiners](https://github.com/FernandoFH/rust-for-bitcoiners)
+
+--- 
 
 - [Mastering Lightning Network](https://github.com/FernandoFH/lnbook)
 - [Lightning curriculum](https://github.com/FernandoFH/lightning-curriculum)
