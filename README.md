@@ -2,6 +2,9 @@
 
 ### 10/12/2024
 
+- [Learn Bitcoin Core Development](https://bitcoindevs.xyz/bitcoin-core)
+
+
 - [Mastering Bitcoin](https://github.com/FernandoFH/bitcoinbook)
 - [Bitcoin curriculum](https://github.com/FernandoFH/bitcoin-curriculum)
 - [Rust For Bitcoiners](https://github.com/FernandoFH/rust-for-bitcoiners)
