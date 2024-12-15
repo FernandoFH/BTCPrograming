@@ -2,7 +2,7 @@
 
 - [Instala nodos BTC y LN](https://github.com/FernandoFH/instala-nodos-btc-y-ln)
 - [Learn Bitcoin Core Development](https://bitcoindevs.xyz/bitcoin-core)
-https://github.com/FernandoFH/platzi-bitcoin-core
+- https://github.com/FernandoFH/platzi-bitcoin-core
 
 
 ### [BitCoin](https://github.com/FernandoFH/bitcoin/) 
