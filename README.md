@@ -1,15 +1,22 @@
-# BTC Programing
+# BTC Programing || BitCoin Developer
 
-### 10/12/2024
-
+### Recursos
 - [Learn Bitcoin Core Development](https://bitcoindevs.xyz/bitcoin-core)
 
 
+### BitCoin
 - [Mastering Bitcoin](https://github.com/FernandoFH/bitcoinbook)
 - [Bitcoin curriculum](https://github.com/FernandoFH/bitcoin-curriculum)
-- [Rust For Bitcoiners](https://github.com/FernandoFH/rust-for-bitcoiners)
 
---- 
+
+### Rust 
+
+
+### Lightning
+https://github.com/FernandoFH/rust-lightning/
+
+
+------ 
 
 - [Mastering Lightning Network](https://github.com/FernandoFH/lnbook)
 - [Lightning curriculum](https://github.com/FernandoFH/lightning-curriculum)
