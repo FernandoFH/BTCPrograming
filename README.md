@@ -16,6 +16,7 @@
 
 
 *** zero-to-production
+
 *** rust-book-en-us-shieber
 
 ### Lightning
@@ -52,5 +53,3 @@ https://github.com/FernandoFH/DeFiHackLabs
 https://github.com/FernandoFH/DeFiVulnLabs
 
 https://github.com/FernandoFH/DeFi-Security-Summit-Stanford
-
-
