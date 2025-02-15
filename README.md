@@ -1,78 +1,31 @@
-# BTC Programing || BitCoin Developer
+# BitCoin Developer || Blockchain Engineer 
 
-#### Rust
-https://github.com/FernandoFH/How_to_learn_modern_Rust
-https://github.com/FernandoFH/programming_bitcoin_in_rust
-
-|Date| Descripcion                                   | Source |Notas | Status |
-|-| --------------------------------------------- | ------ |------ |-- |
-|| Onboarding to Bitcoin Core | [Source](https://github.com/FernandoFH/onboarding-to-bitcoin-core) |    |  ✅  
-|| Bitcoin Curriculum               |        |     | |
-||                            |        |      | |
-|| Zero to production       |      |     | |
-
-https://github.com/FernandoFH/bitcoin-curriculum
-
-bitcoin-curriculum
-
-https://github.com/FernandoFH/lightning-curriculum
-
-https://github.com/FernandoFH/platzi-bitcoin-core
-https://github.com/FernandoFH/instala-nodos-btc-y-ln
-https://github.com/FernandoFH/Learning-Bitcoin-from-the-Command-Line
-https://github.com/FernandoFH/LBCL
-
-https://github.com/FernandoFH/rust-for-bitcoiners
-https://github.com/FernandoFH/programming-bitcoin-rs
-https://github.com/FernandoFH/bitcoiner-intro-to-rust
-https://github.com/FernandoFH/rust-lightning
-
-https://github.com/FernandoFH/intro-bitcoin-functional-testing
-
-https://github.com/FernandoFH/lnbook
-
-
-### Ethereum
-https://github.com/FernandoFH/Awesome-Ethereum
-https://github.com/FernandoFH/ethereumbook
-https://github.com/FernandoFH/learn-evm-attacks
-
-#### Blockchain Engineer
-https://github.com/FernandoFH/Journey-to-become-a-Blockchain-Engineer
-https://github.com/FernandoFH/Web3Tutorials
-
-- [Instala nodos BTC y LN](https://github.com/FernandoFH/instala-nodos-btc-y-ln)
-- [Learn Bitcoin Core Development](https://bitcoindevs.xyz/bitcoin-core)
-- https://github.com/FernandoFH/platzi-bitcoin-core
-
-
-### [BitCoin](https://github.com/FernandoFH/bitcoin/) 
-- [Mastering Bitcoin](https://github.com/FernandoFH/bitcoinbook)
-- [BTC Curriculum](https://github.com/FernandoFH/)
-
-### Rust 
-- [Bitcoiner intro to rust](https://github.com/FernandoFH/bitcoiner-intro-to-rust)
-- [Programming Bitcoin in Rust)](https://github.com/FernandoFH/programming_bitcoin_in_rust)
-- [Rust Lightning](https://github.com/FernandoFH/rust-lightning/)
-
-### Lightning
-- [Mastering Lightning Network](https://github.com/FernandoFH/lnbook)
-- [Lightning curriculum](https://github.com/FernandoFH/lightning-curriculum)
-
------- 
-
-- [Programming Bitcoin](https://github.com/FernandoFH/programming-bitcoin-rs)
-- [Learning Bitcoin from the Command Line](https://github.com/FernandoFH/Learning-Bitcoin-from-the-Command-Line)
-- [Learning Bitcoin from the Command Line (LBCL)](https://github.com/FernandoFH/LBCL)
-- [Test funcionales de Bitcoin Core](https://github.com/FernandoFH/intro-bitcoin-functional-testing)
-____
-
-- [Journey to become a Blockchain Engineer](https://github.com/FernandoFH/Journey-to-become-a-Blockchain-Engineer)
-
-https://github.com/FernandoFH/Web3Tutorials
-
-https://github.com/FernandoFH/Awesome-Ethereum
-
-https://github.com/FernandoFH/ethereumbook
-
-https://github.com/FernandoFH/learn-evm-attacks
+|Date| Descripcion           | Source |                                                         Notas | Status |
+|-| ------------------------ | ------                                                             |---- |-- |
+|| Onboarding to Bitcoin Core | [Source](https://github.com/FernandoFH/onboarding-to-bitcoin-core) |    |  ✅ |
+|| Bitcoin Curriculum          |   [Source](https://github.com/FernandoFH/bitcoin-curriculum)     |     | |
+|| Platzi Bitcoin Core    |    [Source](https://github.com/FernandoFH/platzi-bitcoin-core)     |      | |
+|| Instala nodos BTC y LN    |    [Source](https://github.com/FernandoFH/instala-nodos-btc-y-ln)    |      | |
+|| Learn Bitcoin Core Development    | [Source](https://bitcoindevs.xyz/bitcoin-core)     |      | |
+|| Mastering Bitcoin    | [Source](https://github.com/FernandoFH/bitcoinbook)     |      | |
+|| **Learning Bitcoin from the Command Line**   |      |      | |
+|| Learning Bitcoin from the Command Line  | [Source](https://github.com/FernandoFH/Learning-Bitcoin-from-the-Command-Line) |      | |
+|| LBCL   |  [Source](https://github.com/FernandoFH/LBCL)|    | |
+|| Test funcionales de Bitcoin Core         |  [Source](https://github.com/FernandoFH/intro-bitcoin-functional-testing)      |      | |
+|| **Lightning**    |        |      | |
+|| Lightning Curriculum          |  [Source](https://github.com/FernandoFH/lightning-curriculum)   |     | |
+|| Mastering Lightning Network   |  [Source](https://github.com/FernandoFH/lnbook)   |     | |
+|| **Ethereum**    |        |      | |
+|| Awesome Ethereum         |    [Source](https://github.com/FernandoFH/Awesome-Ethereum)  |     | |
+|| Mastering Ethereum  |   [Source](https://github.com/FernandoFH/ethereumbook)   |     | |
+|| Learn EVM Attacks  |   [Source](https://github.com/FernandoFH/learn-evm-attacks)  |     | |
+|| **Rust**    |        |      | |
+|| How to learn modern Rust    |  [Source](https://github.com/FernandoFH/How_to_learn_modern_Rust)  |      | |
+|| Rust for Bitcoiners   |  [Source](https://github.com/FernandoFH/rust-for-bitcoiners)  |      | |
+|| Bitcoiner intro to rust    |  [Source](https://github.com/FernandoFH/bitcoiner-intro-to-rust)  |      | |
+|| Programming Bitcoin    |   [Source](https://github.com/FernandoFH/programming-bitcoin-rs)  |      | |
+|| Programming Bitcoin in Rust  |  [Source](https://github.com/FernandoFH/programming_bitcoin_in_rust) |      | |
+|| Rust Lightning    | [Source](https://github.com/FernandoFH/rust-lightning/)    |      | |
+|| **Blockchain Engineer**   |        |      | |
+|| Become a Blockchain Engineer   | [Source](https://github.com/FernandoFH/Journey-to-become-a-Blockchain-Engineer) |      | |
+|| Web3 Tutorials  | [Source](https://github.com/FernandoFH/Web3Tutorials)    |      | |
