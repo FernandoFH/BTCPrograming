@@ -29,3 +29,7 @@
 || **Blockchain Engineer**   |        |      | |
 || Become a Blockchain Engineer   | [Source](https://github.com/FernandoFH/Journey-to-become-a-Blockchain-Engineer) |      | |
 || Web3 Tutorials  | [Source](https://github.com/FernandoFH/Web3Tutorials)    |      | |
+
+
+  - Mastering the Lightning Network reading group
+    - https://www.youtube.com/playlist?list=PLpV0KfVOMojbHFGt9UOTS_QklIYUiWwMP
