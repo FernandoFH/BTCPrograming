@@ -1,4 +1,23 @@
-# Tema oficial de GitHub Pages (puedes usar otros como minimal, slate, etc.)
-theme: jekyll-theme-cayman
 title: AprendiendoBTC
-description: Documentación y recursos para aprender sobre Bitcoin.
+description: "Documentación y recursos para aprender sobre Bitcoin."
+
+# Usa el tema Just the Docs como tema remoto. Esto proporcionará una interfaz
+# similar a la del sitio bitcoindevphilosophy.com con barra de navegación
+# lateral y búsqueda integrada.
+remote_theme: just-the-docs/just-the-docs
+
+# Establece el esquema de color en oscuro para habilitar Dark Mode por defecto.
+# Puede ajustarse a "light" para un modo claro o a un esquema personalizado.
+color_scheme: dark
+
+# Define la URL del sitio y baseurl si utilizas una subcarpeta en GitHub Pages.
+# Esto es opcional pero ayuda a construir rutas correctas.
+# url: "https://aprendiendobtc.fernandoh.com"
+# baseurl: ""
+
+# Configura la navegación automática. Si se crean archivos con propiedades
+# `nav_order` en sus cabeceras YAML, aparecerán ordenados en la barra lateral.
+nav:
+  # La página de índice se mostrará como primera entrada.
+  - title: "Inicio"
+    url: "/"
