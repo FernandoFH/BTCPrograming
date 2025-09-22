@@ -16,6 +16,12 @@ sobre Bitcoin, blockchain y desarrollo en torno al protocolo.
 - [Mastering Bitcoin](/MasteringBitcoin.md)
 - [Expertos del Protocolo](/ExpertosProtocolo.md)
 
+- La red de Bitcoin
+- Los Nodos
+  - Valiadr
+  - Asegurar
+  - Compartir
+
 ---
 
 Esta documentación utiliza el tema **Just the Docs** y está configurada en modo
