@@ -17,10 +17,21 @@ sobre Bitcoin, blockchain y desarrollo en torno al protocolo.
 - [Expertos del Protocolo](/ExpertosProtocolo.md)
 
 - La red de Bitcoin
-- Los Nodos
+- Los Nodos {Independencia, Privacidad, seguridad}
+
   - Valiadr
   - Asegurar
   - Compartir
+
+- Minería
+
+  -
+
+- Blockchain
+
+- Claves privadas
+- Clave Públicas
+- Firma digital
 
 ---
 
