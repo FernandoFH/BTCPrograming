@@ -1,9 +1,12 @@
 # BitCoin Developer || Blockchain Engineer
 
+
+
 | Date      | Descripcion                                | Source                                                                          | Notas                                 | Status |
 | --------- | ------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------- | ------ |
-| 30/AGO/25 | Mastering Bitcoin                          | [Source](https://github.com/FernandoFH/bitcoinbook)                             | [Notas](./Notas/MasteringBitcoin.md)  |        |
-| 02/SEP/25 | Expertos del Protocolo                     |                                                                                 | [Notas](./Notas/ExpertosProtocolo.md) |        |
+| 26/Jul/26 | Mastering Bitcoin                          | [Source](https://github.com/FernandoFH/bitcoinbook)                             | [Notas](./Notas/MasteringBitcoin.md)  |        |
+|  | Expertos del Protocolo                     |                                                                                 | [Notas](./Notas/ExpertosProtocolo.md) |        |
+| | Elliptic curves                     |  [Source](https://github.com/FernandoFH/elliptic-curves)    | [Notas](./Notas/) |        |
 |           | Onboarding to Bitcoin Core                 | [Source](https://github.com/FernandoFH/onboarding-to-bitcoin-core)              |                                       |        |
 |           | Bitcoin Curriculum                         | [Source](https://github.com/FernandoFH/bitcoin-curriculum)                      |                                       |        |
 |           | Platzi Bitcoin Core                        | [Source](https://github.com/FernandoFH/platzi-bitcoin-core)                     |                                       |        |
